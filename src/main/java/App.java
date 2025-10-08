@@ -24,7 +24,7 @@ public class App {
 
     //Iniciando valores de entrada em um novo objeto
         CorpoHumano c1 = new CorpoHumano(massa, volume, densidade, altura);
-        c1.massa = "2"; 
+    //    c1.massa = "2"; 
 
     //Calculando imc
         imc = c1.calcularIMC();
